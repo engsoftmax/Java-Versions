@@ -1,11 +1,11 @@
-## :yellow_square: Java-Versions
+## ♦️ Java-Versions
 
 This project will serve as the main index project that will direct to various topics to explain and exemplify the modifications of Java versions over time. I will use material from the site as a reference for some topics. However, the main focus is to expose the new features present in each version of Java.
 site: https://en.wikipedia.org/wiki/Torricelli%27s_equation
 
 ---
 
-## :red_square: Java 8 
+## ☕ Java 8 
 - https://github.com/engsoftmax/Java8
 
 -  Lambda Expressions 
@@ -23,87 +23,87 @@ site: https://en.wikipedia.org/wiki/Torricelli%27s_equation
 -  JDBC
 ---
 
-## Java 9
+## ☕ Java 9
 - https://github.com/engsoftmax/Java9
 
--  Sistema de Módulos (Projeto Jigsaw)
--  Interface com métodos privados
--  Try-Catch com recursos
--  Inferência de tipos em classes internas anônimas
--  Factory Method de coleções
+-  Module System (Project Jigsaw)
+-  Interface with Private Methods
+-  Try-With-Resources
+-  Type Inference in Anonymous Inner Classes
+-  Collection Factory Methods
 -  JShell
--  Melhorias na API Stream
+-  Stream API Enhancements
 -  HTTP/2
 ---
 
-## Java 10
+## ☕ Java 10
 - https://github.com/engsoftmax/Java10
 
--  Inferência de tipos em variáveis locais
--  Mudanças no Garbage-Collector
--  Versionamento com base em data
--  Alocação de memória alternativa
+-  Local-Variable Type Inference
+-  Changes to Garbage Collector
+-  Versioning Based on Date
+-  Alternative Memory Allocation
 ---
 
-## Java 11
+## ☕ Java 11
 - https://github.com/engsoftmax/Java11
 
--  Novos métodos da classe String
--  Var em parâmetros lambda
--  Métodos readString() e writeString() da classe Files
+-  New String Methods
+-  `var` in Lambda Parameters
+-  `readString()` and `writeString()` Methods in Files Class
 ---
 
-## Java 12
+##  ☕ Java 12
 - https://github.com/engsoftmax/Java12
 
 -  Switch Expressions
--  Classe Files – método mismatch
--  Classe CompactNumberFormat
--  Teeing Collector
--  Novos métodos do Java String
+-  `Files` Class – `mismatch` Method
+-  `CompactNumberFormat` Class
+-  `Teeing` Collector
+-  New Java String Methods
 ---
 
-## Java 13
+## ☕ Java 13
 - https://github.com/engsoftmax/Java13
 
 -  Text Blocks
--  Switch Expressions - yield
--  Nova implementação Socket API
+-  Switch Expressions - `yield`
+-  New Socket API Implementation
 -  Z Garbage Collector
----  
+---
 
-## Java 14
+## ☕ Java 14
 - https://github.com/engsoftmax/Java14
 
 -  Text Blocks
 -  NullPointerExceptions
--  Pattern Matching for instanceof
+-  Pattern Matching for `instanceof`
 -  Records
 ---
 
-## Java 15
+## ☕ Java 15
 - https://github.com/engsoftmax/Java15
 
 -  Text Blocks (Standard)
--  Classes Ocultas
--  Classes Seladas e Pattern Matching for instanceof (continuação)
--  Records (continuação)
+-  Hidden Classes
+-  Sealed Classes and Pattern Matching for `instanceof` (continued)
+-  Records (continued)
 ---
 
-## Java 16
+## ☕ Java 16
 - https://github.com/engsoftmax/Java16
 
--  Classes Seladas (2nd preview)
--  Classes Baseadas em Valor
+-  Sealed Classes (2nd Preview)
+-  Value-Based Classes
 -  Packaging Tool
--  Recursos da Linguagem C++14
+-  C++14 Language Features
 -  Roadmap
 ---
 
-## Java 17
+## ☕ Java 17
 - https://github.com/engsoftmax/Java17
 
--  Mensagem mais clara para NullPointerException
--  Correspondência de Padrões para Switch Expressions
--  Interface de Função Estrangeira (FFI)
----  
+-  Clearer Messages for NullPointerException
+-  Pattern Matching for Switch Expressions
+-  Foreign Function Interface (FFI)
+---
